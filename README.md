@@ -2,6 +2,11 @@
 
 This project is created in my time at the University and it consists of a Database with tables for students, grades and subjects. The database format can be either Access (.accdb) or Sql (.mdf).
 
+## Demo
+<p align="center">
+  <img src="UNI_Classbook_Project/media/demo.png" width="650" title="Demo image">
+</p>
+
 ## Going into detail
 The project involves ways to access all the three different tables and add, modify or delete an entry. The interface consists of buttons to select the current table, save, load, exit, add entry, edit entry and delete entry.
 
